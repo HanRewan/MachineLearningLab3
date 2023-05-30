@@ -1,0 +1,9 @@
+Sex - nominal - M, F, and I (infant)
+Length - continuous - Longest shell measurement
+Diameter - continuous - perpendicular to length
+Height - continuous - with meat in shell
+Whole weight - continuous - whole abalone
+Shucked weight - continuous - weight of meat
+Viscera weight - continuous - gut weight (after bleeding)
+Shell weight - continuous - after being dried
+Rings - continuous - +1.5 gives the age in years
